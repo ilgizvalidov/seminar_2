@@ -22,3 +22,6 @@
                 
         }
   }
+
+CompareDigits();
+CompareDigits(); 
